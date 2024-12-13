@@ -1,0 +1,3 @@
+User: Johann Jay Dimaculangan, Age: 20, Score: 2
+Responses: [4, Yes, 1]
+---------------
